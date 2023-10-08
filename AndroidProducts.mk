@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_pipa.mk
+    $(LOCAL_DIR)/evolution_pipa.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_pipa-user \
-    aosp_pipa-userdebug \
-    aosp_pipa-eng
+    evolution_pipa-user \
+    evolution_pipa-userdebug \
+    evolution_pipa-eng
